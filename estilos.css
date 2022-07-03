@@ -1,5 +1,6 @@
 @charset "utf-8";
 body{
+    margin: auto;
     width: 700px;
     padding: 15px;
     background-color: #B4CBD9;
